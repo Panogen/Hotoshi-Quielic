@@ -1,0 +1,1 @@
+Note: When importing glyphs to Birdfont, be sure that all glyphs have had their paths merged after making a copy of the entire set, preserving the original glyphs for editing.
