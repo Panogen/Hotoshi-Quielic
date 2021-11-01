@@ -1,0 +1,1 @@
+ Correct indicated font weight - weight 3 should be Light, and weight 4 should be Normal.
